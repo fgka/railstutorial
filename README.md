@@ -1,0 +1,4 @@
+railstutorial
+=============
+
+Following Rails tutorial
